@@ -1,0 +1,8 @@
+1. In the browser there is the text "Node.js WebSockets Lab" and
+	a black sqaure which contains a bunny looking creature. If another tab is
+	opened and the creature is dragged, on both tabs, the creature is moved.
+2. Typescript is more static and javascript is more dynamic.
+3. 
+4. 
+5. 
+6. 
